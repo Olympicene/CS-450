@@ -1,0 +1,18 @@
+[submodule "hw1-Olympicene"]
+	path = hw1-Olympicene
+	url = git@github.com:CS450-Fall-2023/hw1-Olympicene.git
+[submodule "hw5-Olympicene"]
+	path = hw5-Olympicene
+	url = git@github.com:CS450-Fall-2023/hw5-Olympicene.git
+[submodule "hw4-Olympicene"]
+	path = hw4-Olympicene
+	url = git@github.com:CS450-Fall-2023/hw4-Olympicene.git
+[submodule "hw3-Olympicene"]
+	path = hw3-Olympicene
+	url = git@github.com:CS450-Fall-2023/hw3-Olympicene.git
+[submodule "intro-to-python-and-git-Olympicene"]
+	path = intro-to-python-and-git-Olympicene
+	url = git@github.com:CS450-Fall-2023/intro-to-python-and-git-Olympicene.git
+[submodule "hw2-Olympicene"]
+	path = hw2-Olympicene
+	url = git@github.com:CS450-Fall-2023/hw2-Olympicene.git
